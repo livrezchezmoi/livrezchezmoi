@@ -11,13 +11,16 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '11653457257f4ad030bdb65-78418631',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57f4afffc7aa97_96353755',
+  'unifunc' => 'content_57f5003a5a5fe1_21387129',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57f4afffc7aa97_96353755')) {function content_57f4afffc7aa97_96353755($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57f5003a5a5fe1_21387129')) {function content_57f5003a5a5fe1_21387129($_smarty_tpl) {?>
 <!-- Module Editorial -->
 <div id="editorial_block_center" class="editorial_block">
-	<a href="http://www.prestashop.com" title="Qu&#039;est-ce que Livrezchezmoi?">		</a>		<h1>Qu'est-ce que Livrezchezmoi?</h1>		<div class="rte"><p>Site web multi-plateforme permettant aux particuliers d’acheter des produits<br /><br />encombrants et de se les faire installer et livrer en toute simplicité.</p></div></div>
+	<a href="http://www.prestashop.com" title="">		</a>				<div class="rte"><h1 style="text-align: center;"><strong>Achetez sur internet en toute simplicité!</strong></h1>
+<h2 style="text-align: center;"><strong>Produits livrés et installés chez vous</strong></h2>
+<h2 class="rte" style="text-align: center;"><strong>Date et heure de livraison définies par téléphone</strong></h2>
+<h2 class="rte" style="text-align: center;"><strong>Paiement à la livraison</strong></h2></div></div>
 <!-- /Module Editorial -->
 <?php }} ?>

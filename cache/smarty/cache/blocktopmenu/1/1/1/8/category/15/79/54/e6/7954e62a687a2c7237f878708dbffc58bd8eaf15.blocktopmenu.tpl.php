@@ -11,17 +11,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '67836396157f4ad027891b5-12595889',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57f4b4fccc9379_63891765',
+  'unifunc' => 'content_57f5006d9f9d10_14546075',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57f4b4fccc9379_63891765')) {function content_57f4b4fccc9379_63891765($_smarty_tpl) {?>	<!-- Menu -->
-	<div id="block_top_menu" class="sf-contener clearfix col-lg-12">
-		<div class="cat-title">Menu</div>
-		<ul class="sf-menu clearfix menu-content">
-			<li><a href="https://livrezchezmoi.prodtest.ovh/index.php?id_cms_category=1&amp;controller=cms" title="Accueil">Accueil</a><ul><li ><a href="https://livrezchezmoi.prodtest.ovh/index.php?id_cms=1&controller=cms">Livraison</a></li><li ><a href="https://livrezchezmoi.prodtest.ovh/index.php?id_cms=2&controller=cms">Mentions légales</a></li><li ><a href="https://livrezchezmoi.prodtest.ovh/index.php?id_cms=3&controller=cms">Conditions d'utilisation</a></li><li ><a href="https://livrezchezmoi.prodtest.ovh/index.php?id_cms=4&controller=cms">A propos</a></li><li ><a href="https://livrezchezmoi.prodtest.ovh/index.php?id_cms=5&controller=cms">Paiement sécurisé</a></li></ul></li>
-<li><a href="https://livrezchezmoi.prodtest.ovh/index.php?id_category=12&amp;controller=category" title="Electroménager">Electroménager</a></li><li><a href="https://livrezchezmoi.prodtest.ovh/index.php?id_category=13&amp;controller=category" title="Mobilier">Mobilier</a></li><li class="sfHoverForce"><a href="https://livrezchezmoi.prodtest.ovh/index.php?id_category=15&amp;controller=category" title="Informatique">Informatique</a></li>
-					</ul>
-	</div>
-	<!--/ Menu -->
-<?php }} ?>
+<?php if ($_valid && !is_callable('content_57f5006d9f9d10_14546075')) {function content_57f5006d9f9d10_14546075($_smarty_tpl) {?><?php }} ?>

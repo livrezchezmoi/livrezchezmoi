@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '72666891357f4af9bb36db4-87275568',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57f4afcb82bbb9_77945953',
+  'unifunc' => 'content_57f50055b32219_81546396',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57f4afcb82bbb9_77945953')) {function content_57f4afcb82bbb9_77945953($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57f50055b32219_81546396')) {function content_57f50055b32219_81546396($_smarty_tpl) {?>
 <!-- Block tags module -->
 <div id="tags_block_left" class="block tags_block">
 	<p class="title_block">
@@ -23,25 +23,74 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 	</p>
 	<div class="block_content">
 									<a 
-				class="tag_level1 first_item"
-				href="https://livrezchezmoi.prodtest.ovh/index.php?controller=search&amp;tag=hublot" 
-				title="En savoir plus sur hublot" 
+				class="tag_level3 first_item"
+				href="https://livrezchezmoi.prodtest.ovh/index.php?controller=search&amp;tag=ordinateur" 
+				title="En savoir plus sur ordinateur" 
 				>
-					hublot
+					ordinateur
+				</a>
+							<a 
+				class="tag_level3 item"
+				href="https://livrezchezmoi.prodtest.ovh/index.php?controller=search&amp;tag=informatique" 
+				title="En savoir plus sur informatique" 
+				>
+					informatique
 				</a>
 							<a 
 				class="tag_level1 item"
-				href="https://livrezchezmoi.prodtest.ovh/index.php?controller=search&amp;tag=lave+linge" 
-				title="En savoir plus sur lave linge" 
+				href="https://livrezchezmoi.prodtest.ovh/index.php?controller=search&amp;tag=tiroir" 
+				title="En savoir plus sur tiroir" 
 				>
-					lave linge
+					tiroir
+				</a>
+							<a 
+				class="tag_level1 item"
+				href="https://livrezchezmoi.prodtest.ovh/index.php?controller=search&amp;tag=adulte" 
+				title="En savoir plus sur adulte" 
+				>
+					adulte
+				</a>
+							<a 
+				class="tag_level1 item"
+				href="https://livrezchezmoi.prodtest.ovh/index.php?controller=search&amp;tag=lit" 
+				title="En savoir plus sur lit" 
+				>
+					lit
+				</a>
+							<a 
+				class="tag_level1 item"
+				href="https://livrezchezmoi.prodtest.ovh/index.php?controller=search&amp;tag=t%C3%A9l%C3%A9vision" 
+				title="En savoir plus sur télévision" 
+				>
+					télévision
+				</a>
+							<a 
+				class="tag_level1 item"
+				href="https://livrezchezmoi.prodtest.ovh/index.php?controller=search&amp;tag=tv" 
+				title="En savoir plus sur tv" 
+				>
+					tv
+				</a>
+							<a 
+				class="tag_level1 item"
+				href="https://livrezchezmoi.prodtest.ovh/index.php?controller=search&amp;tag=meuble" 
+				title="En savoir plus sur meuble" 
+				>
+					meuble
+				</a>
+							<a 
+				class="tag_level1 item"
+				href="https://livrezchezmoi.prodtest.ovh/index.php?controller=search&amp;tag=lave+vaisselle" 
+				title="En savoir plus sur lave vaisselle" 
+				>
+					lave vaisselle
 				</a>
 							<a 
 				class="tag_level1 last_item"
-				href="https://livrezchezmoi.prodtest.ovh/index.php?controller=search&amp;tag=lavelinge" 
-				title="En savoir plus sur lavelinge" 
+				href="https://livrezchezmoi.prodtest.ovh/index.php?controller=search&amp;tag=mac" 
+				title="En savoir plus sur mac" 
 				>
-					lavelinge
+					mac
 				</a>
 						</div>
 </div>
