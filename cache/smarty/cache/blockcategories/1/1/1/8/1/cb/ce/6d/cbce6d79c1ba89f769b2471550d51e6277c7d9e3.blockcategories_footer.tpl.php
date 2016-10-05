@@ -1,4 +1,4 @@
-<?php /*%%SmartyHeaderCode:180209837857f36d88b52f11-36916247%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:200111637757f4ad02b81415-51886976%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -15,13 +15,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '180209837857f36d88b52f11-36916247',
+  'nocache_hash' => '200111637757f4ad02b81415-51886976',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57f3ba803517b0_20744959',
+  'unifunc' => 'content_57f4afffbe23f6_04643823',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57f3ba803517b0_20744959')) {function content_57f3ba803517b0_20744959($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57f4afffbe23f6_04643823')) {function content_57f4afffbe23f6_04643823($_smarty_tpl) {?>
 <!-- Block categories module -->
 <section class="blockcategories_footer footer-block col-xs-12 col-sm-2">
 	<h4>Catégories</h4>
@@ -38,10 +38,19 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 
 							
 																
-<li class="last">
+<li >
 	<a 
 	href="https://livrezchezmoi.prodtest.ovh/index.php?id_category=13&amp;controller=category" title="">
 		Mobilier
+	</a>
+	</li>
+
+							
+																
+<li class="last">
+	<a 
+	href="https://livrezchezmoi.prodtest.ovh/index.php?id_category=15&amp;controller=category" title="">
+		Informatique
 	</a>
 	</li>
 
