@@ -151,6 +151,7 @@
 		<module name="openpayprestashop"/>
 		<module name="packlink"/>
 		<module name="pagseguro"/>
+		<module name="paygreen"/>
 		<module name="payolution"/>
 		<module name="paypal"/>
 		<module name="paypalusa"/>
@@ -176,6 +177,7 @@
 		<module name="socolissimo"/>
 		<module name="sofortbanking"/>
 		<module name="steerfox"/>
+		<module name="themoneytizer"/>
 		<module name="tntcarrier"/>
 		<module name="trustedshops"/>
 		<module name="twenga"/>
