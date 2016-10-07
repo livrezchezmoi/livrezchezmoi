@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '70160308257f4af9ba74c32-26249669',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57f698c4a01283_11965140',
+  'unifunc' => 'content_57f74af7d5f153_69871026',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57f698c4a01283_11965140')) {function content_57f698c4a01283_11965140($_smarty_tpl) {?><!-- MODULE Block new products -->
+<?php if ($_valid && !is_callable('content_57f74af7d5f153_69871026')) {function content_57f74af7d5f153_69871026($_smarty_tpl) {?><!-- MODULE Block new products -->
 <div id="new-products_block_right" class="block products_block">
 	<h4 class="title_block">
     	<a href="https://livrezchezmoi.prodtest.ovh/index.php?controller=new-products" title="Nouveaux produits">Nouveaux produits</a>

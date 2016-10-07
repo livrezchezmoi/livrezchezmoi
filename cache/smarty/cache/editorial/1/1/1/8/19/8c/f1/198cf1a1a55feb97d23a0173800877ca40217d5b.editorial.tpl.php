@@ -11,16 +11,20 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '11653457257f4ad030bdb65-78418631',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57f5003a5a5fe1_21387129',
+  'unifunc' => 'content_57f6a160676616_74845140',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57f5003a5a5fe1_21387129')) {function content_57f5003a5a5fe1_21387129($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57f6a160676616_74845140')) {function content_57f6a160676616_74845140($_smarty_tpl) {?>
 <!-- Module Editorial -->
 <div id="editorial_block_center" class="editorial_block">
-	<a href="http://www.prestashop.com" title="">		</a>				<div class="rte"><h1 style="text-align: center;"><strong>Achetez sur internet en toute simplicité!</strong></h1>
+							<div class="rte"><h1 style="text-align: center;"><strong>Achetez sur internet en toute simplicité!</strong></h1>
 <h2 style="text-align: center;"><strong>Produits livrés et installés chez vous</strong></h2>
 <h2 class="rte" style="text-align: center;"><strong>Date et heure de livraison définies par téléphone</strong></h2>
-<h2 class="rte" style="text-align: center;"><strong>Paiement à la livraison</strong></h2></div></div>
+<h2 class="rte" style="text-align: center;"><strong>Paiement à la livraison</strong></h2>
+<p style="text-align: center;"><a href="https://livrezchezmoi.prodtest.ovh/index.php?id_cms=4&controller=cms"><strong>découvrez notre concept</strong></a></p>
+<p></p>
+<p></p>
+<h3 style="text-align: center;"><strong>SITE MARCHAND FACTICE</strong></h3></div></div>
 <!-- /Module Editorial -->
 <?php }} ?>

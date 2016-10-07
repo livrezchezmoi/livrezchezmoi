@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '146269313757f4ad02be5e28-82499663',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57f50055a89cb2_54920947',
+  'unifunc' => 'content_57f698c4987640_50318296',
   'has_nocache_code' => true,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57f50055a89cb2_54920947')) {function content_57f50055a89cb2_54920947($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57f698c4987640_50318296')) {function content_57f698c4987640_50318296($_smarty_tpl) {?>
 	<!-- Block CMS module -->
 			<section id="informations_block_left_1" class="block informations_block_left">
 			<p class="title_block">
@@ -25,28 +25,13 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 			<div class="block_content list-block">
 				<ul>
 																							<li>
-								<a href="https://livrezchezmoi.prodtest.ovh/index.php?id_cms=1&amp;controller=cms" title="Livraison">
-									Livraison
-								</a>
-							</li>
-																								<li>
-								<a href="https://livrezchezmoi.prodtest.ovh/index.php?id_cms=2&amp;controller=cms" title="Mentions légales">
-									Mentions légales
-								</a>
-							</li>
-																								<li>
 								<a href="https://livrezchezmoi.prodtest.ovh/index.php?id_cms=3&amp;controller=cms" title="Conditions d&#039;utilisation">
 									Conditions d&#039;utilisation
 								</a>
 							</li>
 																								<li>
-								<a href="https://livrezchezmoi.prodtest.ovh/index.php?id_cms=4&amp;controller=cms" title="A propos">
-									A propos
-								</a>
-							</li>
-																								<li>
-								<a href="https://livrezchezmoi.prodtest.ovh/index.php?id_cms=5&amp;controller=cms" title="Paiement sécurisé">
-									Paiement sécurisé
+								<a href="https://livrezchezmoi.prodtest.ovh/index.php?id_cms=4&amp;controller=cms" title="Le concept">
+									Le concept
 								</a>
 							</li>
 																						<li>

@@ -11,11 +11,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'nocache_hash' => '156260891257f4ad02caad22-92469871',
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_57f5fe37561638_82808028',
+  'unifunc' => 'content_57f74b511d24d8_23507989',
   'has_nocache_code' => false,
   'cache_lifetime' => 31536000,
 ),true); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_57f5fe37561638_82808028')) {function content_57f5fe37561638_82808028($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_57f74b511d24d8_23507989')) {function content_57f74b511d24d8_23507989($_smarty_tpl) {?>
 <!-- Block myaccount module -->
 <section class="footer-block col-xs-12 col-sm-4">
 	<h4><a href="https://livrezchezmoi.prodtest.ovh/index.php?controller=my-account" title="Gérer mon compte client" rel="nofollow">Mon compte</a></h4>
